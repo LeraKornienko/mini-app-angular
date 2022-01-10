@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+  font-family: "Montserrat", sans-serif;
+  width: 1200px;
+  background-color: #ffff;
+  margin: auto;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+  padding-left: 50px;
+  padding-top: 50px;
+  min-height: 1200px;
+}
